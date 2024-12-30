@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![gef.gif](sigSandor/gef.gif)
+![gef](gef.gif)
+
 - ⚡ Fun fact: lots of bugs
 - 💬 Ask me about ...
 - 📫 How to reach me: dont
