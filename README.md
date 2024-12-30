@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![gef](gef.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigSandor&show_icons=true&theme=solarized_dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigSandor&layout=compact&theme=solarized_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigSandor&show_icons=true&theme=solarizeddark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigSandor&layout=compact&theme=solarizeddark)
 
 
 ## 🛠️ Languages and Tools
