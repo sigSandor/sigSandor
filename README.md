@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: lots of bugs
 - 💬 Ask me about ...
 - 📫 How to reach me: dont
+
+![Snake animation](https://github.com/sigSandor/sigSandor/blob/output/github-contribution-grid-snake.svg)
