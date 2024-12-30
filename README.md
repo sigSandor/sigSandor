@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![KQL](https://img.shields.io/badge/-KQL-0078D7?logo=microsoft&logoColor=white&style=flat)
 
-- 💎 Ruby
-- ✍️ Markdown
-- 🐍 Python
-- 🔍 KQL (Kusto Query Language)
 - ⚡ Fun fact: lots of bugs
 - 💬 Ask me about ...
 - 📫 How to reach me: dont
