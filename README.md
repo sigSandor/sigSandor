@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 ![KQL](https://img.shields.io/badge/-KQL-0078D7?logo=microsoft&logoColor=white&style=flat)
 
 ### Icons
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Microsoft_Azure_Logo.svg" width="40" height="40" alt="KQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Microsoft_Azure_Logo.svg" width="40" height="40" alt="KQL" />
 
 ### Plain Text
 - 💎 Ruby
