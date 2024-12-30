@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dont
 
 "A home for half-baked ideas and fully-baked dreams." - ChatGPT 12/30/2024 2:22 🖥️
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F75937&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cybersecurity+and+Code+Enthusiast;Always+Learning+Something+New!)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge)
