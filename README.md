@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: dont
 
+"A home for half-baked ideas and fully-baked dreams." - ChatGPT 12/30/2024 2:22 🖥️
