@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: dont
 
-![Snake animation](https://github.com/sigSandor/sigSandor/blob/output/github-contribution-grid-snake.svg)
